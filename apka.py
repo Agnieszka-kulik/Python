@@ -4,7 +4,7 @@ import requests
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
-API_key = "e9775a3dedb04da6952953625cd7b5b3"
+API_key = ""
 
 #funkcja pokazująca obecną pogodę
 def obecna_temp():
