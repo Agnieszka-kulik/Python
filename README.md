@@ -2,4 +2,5 @@
 Apka pogody:
 Progam pobierjący aktualną pogodę lub wyświetlający prognozę dla wybranego miasta
 
-2. 
+2. Cykle 25 nauki z przerwami pięciominutowymi
+3. 
