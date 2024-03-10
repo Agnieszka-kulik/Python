@@ -4,7 +4,7 @@
 
 2. nauka_angielskiego.py
    
-Pprogram do nauki słówek angielskich poprzez odsłuchiwanie i odgadywanie. Wykorzystuje biblioteki takie jak PyPDF2, nltk, pyttsx3 i pygame. Umożliwia wybór planu: naukę nowych słówek z pliku PDF lub powtarzanie tych, które sprawiają trudność. Wyniki są zapisywane w pliku tekstowym.
+   Program do nauki słówek angielskich poprzez odsłuchiwanie i odgadywanie. Wykorzystuje biblioteki takie jak PyPDF2, nltk, pyttsx3 i pygame. Umożliwia wybór planu: naukę nowych słówek z pliku PDF lub powtarzanie tych, które sprawiają trudność. Wyniki są zapisywane w pliku tekstowym.
 
 3. wyszukiwanie_numeru_telefonu_lub_maila_ze_schowka.py
    
@@ -12,7 +12,7 @@ Pprogram do nauki słówek angielskich poprzez odsłuchiwanie i odgadywanie. Wyk
 
 4. gen_quizow.py
 
-  To jest program generujący quizy z nazwami stolic europejskich państw. Używa słownika europe_capitals, który zawiera pary klucz-wartość (państwo-stolica). Na podstawie tego słownika generowane są quizy z pytaniami i odpowiedniami. Każdy quiz zawiera 15 pytań, a odpowiedzi są losowo permutowane.
+   To jest program generujący quizy z nazwami stolic europejskich państw. Używa słownika europe_capitals, który zawiera pary klucz-wartość (państwo-stolica). Na podstawie tego słownika generowane są quizy z pytaniami i odpowiedniami. Każdy quiz zawiera 15 pytań, a odpowiedzi są losowo permutowane.
 
 5. pomodoro_sesje.py (w trakcie)
     
