@@ -24,8 +24,8 @@ europe_capitals = {
     "Ukraina": "Kijów",    "Węgry": "Budapeszt",
     "Wielka Brytania": "Londyn",    "Włochy": "Rzym",
 }
-
-for numer_quizu in range(2):
+n = int(input("Podaj ilość quizów do wygenerowanie"))
+for numer_quizu in range(n):
 
     #stworzenie pliku na pytania i odpowiedzi
     pytania = open(f"Quiz_nr{numer_quizu}.txt",'w')
